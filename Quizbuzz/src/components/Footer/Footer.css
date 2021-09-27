@@ -1,0 +1,24 @@
+.footer{
+    display: flex;
+    /* margin-top: 50px; */
+    padding: 15px;
+    background: rgba(0, 0, 0, 0.50);
+    color: white;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    justify-content: center;
+    align-items: center;
+    font-size: 15px;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+a{
+    color: white;
+}
+a:hover{
+    cursor: pointer;
+    text-decoration: none;
+    color: white;
+}
