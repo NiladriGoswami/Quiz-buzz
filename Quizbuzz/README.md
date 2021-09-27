@@ -4,6 +4,23 @@
 
 A simple quiz application that was developed using **React JS** and **Material-UI**. Users can select any category from the provided 22 categories, and take the quiz. Apart from that user can set the level of difficulty according to his/her convenience. The questions were fetched from a **Trivia API**, which is an open database that provides a completely free JSON API for use in programming projects.
 
+## Technologies Used
+  * React JS.
+
+## API used:
+  * Website: https://opentdb.com/api_config.php
+  * API link: https://opentdb.com/api.php?amount=10
+  
+## Trivia API
+
+`https://opentdb.com/api.php?amount=20&category=${9 to 32}&difficulty=${ easy or medium or hard }&type=multiple`
+
+## Author:
+  * Niladri Goswami (https://www.linkedin.com/in/niladri-goswami-0972a2118)
+
+## Site Link:
+https://myquizbuzz.netlify.app/
+
 ## Available Scripts / Installation
 
 In the project directory, you can run:
@@ -28,20 +45,3 @@ In the project directory, you can run:
   **This is a one-way operation. Once you `eject`, you can’t go back!**
 
   If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project. Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own. You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Technologies Used
-  * React JS.
-
-## API used:
-  * Website: https://opentdb.com/api_config.php
-  * API link: https://opentdb.com/api.php?amount=10
-  
-## Trivia API
-
-`https://opentdb.com/api.php?amount=20&category=${9 to 32}&difficulty=${ easy or medium or hard }&type=multiple`
-
-## Author:
-  * Niladri Goswami (https://www.linkedin.com/in/niladri-goswami-0972a2118)
-
-## Site Link:
-https://myquizbuzz.netlify.app/
