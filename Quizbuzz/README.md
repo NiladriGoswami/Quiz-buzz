@@ -8,7 +8,7 @@ A simple quiz application that was developed using **React JS** and **Material-U
   * React JS.
   * Material-UI.
 
-## API used:
+## API used
   * Website: https://opentdb.com/api_config.php
   * API link: https://opentdb.com/api.php?amount=10
   
@@ -16,10 +16,10 @@ A simple quiz application that was developed using **React JS** and **Material-U
 
 `https://opentdb.com/api.php?amount=20&category=${9 to 32}&difficulty=${ easy or medium or hard }&type=multiple`
 
-## Author:
+## Author
   * Niladri Goswami (https://www.linkedin.com/in/niladri-goswami-0972a2118)
 
-## Site Link:
+## Site Link
 https://myquizbuzz.netlify.app/
 
 ## Available Scripts / Installation
