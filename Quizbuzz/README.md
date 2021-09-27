@@ -6,6 +6,7 @@ A simple quiz application that was developed using **React JS** and **Material-U
 
 ## Technologies Used
   * React JS.
+  * Material-UI.
 
 ## API used:
   * Website: https://opentdb.com/api_config.php
