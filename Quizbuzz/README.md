@@ -1,6 +1,4 @@
-# Trivia API
 
-`https://opentdb.com/api.php?amount=20&category=${9 to 32}&difficulty=${ easy or medium or hard }&type=multiple`
 
 ## Available Scripts / Installation
 
@@ -33,6 +31,10 @@ In the project directory, you can run:
 ## API used:
   * Website: https://opentdb.com/api_config.php
   * API link: https://opentdb.com/api.php?amount=10
+  
+## Trivia API
+
+`https://opentdb.com/api.php?amount=20&category=${9 to 32}&difficulty=${ easy or medium or hard }&type=multiple`
 
 ## Author:
   * Niladri Goswami (https://www.linkedin.com/in/niladri-goswami-0972a2118)
