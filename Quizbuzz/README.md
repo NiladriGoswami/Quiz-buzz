@@ -1,4 +1,8 @@
+# QuizBuzz
 
+## Description
+
+A simple quiz application that was developed using **React JS** and **Material-UI**.Users can select any category from the provided 22 categories, and take the quiz. Apart from that user can set the level of difficulty according to his/her convenience. The questions were fetched from a **Trivia API**, which is an open database that provides a completely free JSON API for use in programming projects.
 
 ## Available Scripts / Installation
 
