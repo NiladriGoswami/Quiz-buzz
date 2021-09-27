@@ -42,10 +42,14 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 # Technologies Used
 * React JS.
 
-#### Author:
+# API used:
+* Website: https://opentdb.com/api_config.php
+* API link: https://opentdb.com/api.php?amount=10
+
+# Author:
 * Niladri Goswami (https://www.linkedin.com/in/niladri-goswami-0972a2118)
 
-#### Site Link:
+# Site Link:
 https://myquizbuzz.netlify.app/
 
 ## Learn More
