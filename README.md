@@ -4,6 +4,8 @@
 
 A simple quiz application that was developed using **React JS** and **Material-UI**. Users can select any category from the provided 22 categories, and take the quiz. Apart from that user can set the level of difficulty according to his / her convenience. The questions were fetched from a **Trivia API**, which is an open database that provides a completely free JSON API for use in programming projects.
 
+https://user-images.githubusercontent.com/48457036/135074246-7c8fad70-2d34-4c0f-9d02-d720bbdde1f4.mp4
+
 ## Technologies used
   * React JS.
   * Material-UI.
